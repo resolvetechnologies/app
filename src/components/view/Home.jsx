@@ -40,7 +40,7 @@ export default function Home() {
                                                 <nav className="item-menu" data-v-53486bd9>
                                                     <ul data-v-53486bd9>
                                                         <li data-v-53486bd9><a href="" data-v-53486bd9>Audio2Docs</a></li>
-                                                        <li data-v-53486bd9><a href="" data-v-53486bd9>Freelance</a></li>
+                                                        <li data-v-53486bd9><a href="https://freelance-kaiketsu.vercel.app/" data-v-53486bd9>Freelance</a></li>
                                                         <li data-v-53486bd9><a href="" data-v-53486bd9>Ecosystem</a></li>
                                                         <li data-v-53486bd9><a href="" data-v-53486bd9>About</a></li>
                                                         <li data-v-53486bd9><a href="" target="_blank" rel="noopener nofollow" data-v-53486bd9>Help</a>
@@ -55,7 +55,7 @@ export default function Home() {
                                                                     </span>
                                                                 </span>
                                                                 <ul className="products-list" data-v-53486bd9>
-                                                                    <li data-v-53486bd9><a href="" data-v-53486bd9>Freelancer Marketplace</a></li>
+                                                                    <li data-v-53486bd9><a href="https://freelance-kaiketsu.vercel.app/" data-v-53486bd9>Freelancer Marketplace</a></li>
                                                                     <li data-v-53486bd9><a href="" data-v-53486bd9>Audio2Docs</a></li>
                                                                     <li data-v-53486bd9><a href="" data-v-53486bd9>Staking</a></li>
                                                                     <li data-v-53486bd9><a href="" data-v-53486bd9>Lending/Borrowing</a></li>
@@ -151,7 +151,7 @@ export default function Home() {
                                             </div>
                                         </header>
                                     </div>
-                                    <section id="product-timewarp" className="root-staking-time-partial" data-v-2551018c data-v-53af4b25>
+                                    <section id="staking" className="root-staking-time-partial" data-v-2551018c data-v-53af4b25>
                                         <article className="staking-time-article inner-wrap" data-v-2551018c>
                                             <div className="column column-text " data-v-2551018c>
                                                 <h2 className="title-about" data-v-2551018c>Stake your tokens and earn rewards</h2>
@@ -379,7 +379,7 @@ export default function Home() {
                                             <nav className="menu-block" data-v-4be5dc8b>
                                                 <h2 className="title-menu" data-v-4be5dc8b>Products</h2>
                                                 <div className="link-list" data-v-4be5dc8b>
-                                                    <a href="" target="_blank" rel="noopener" data-v-4be5dc8b>
+                                                    <a href="https://freelance-kaiketsu.vercel.app/" target="_blank" rel="noopener" data-v-4be5dc8b>
                                                         Freelancer Marketplace
                                                     </a>
                                                     <a href="" target="_blank" rel="noopener" data-v-4be5dc8b>
