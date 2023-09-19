@@ -8,7 +8,7 @@ export default function Home() {
                 <meta charSet="utf-8" />
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <link rel="icon" href="./assets/kaiketsu.png" style={{ width: "200px", height: "200px" }} />
+                <link rel="icon" href="./assets/kaiketsu.png" width="200" height="200" />
                 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700" />
                 <meta data-vue-meta="ssr" data-vmid="og:title" property="og:title" content="" />
                 <meta data-vue-meta="ssr" data-vmid="og:type" property="og:type" content="website" />
@@ -166,8 +166,7 @@ export default function Home() {
                                             <div className="column column-image" data-v-2551018c>
                                                 <div className="img-block" data-v-2551018c>
                                                     <div className="main" data-v-2551018c>
-                                                        <img src="./assets/img/main/holding-box.svg" alt="holding-box"
-                                                            style={{ width: "495px", height: "405px" }} />
+                                                        <img src="./assets/img/main/holding-box.svg" alt="holding-box" width="495" height="405" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -249,8 +248,7 @@ export default function Home() {
                                             <div className="column column-image" data-v-2551018c>
                                                 <div className="img-block" data-v-2551018c>
                                                     <div className="main" data-v-2551018c>
-                                                        <img src="./assets/img/main/revenue-allocation.jpg" alt="revenue allocation"
-                                                            style={{ width: "495px", height: "405px" }} />
+                                                        <img src="./assets/img/main/revenue-allocation.jpg" alt="revenue allocation" width="495" height="405" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -285,7 +283,7 @@ export default function Home() {
                                             <div className="column column-image" data-v-2551018c>
                                                 <div className="img-block" data-v-2551018c>
                                                     <div className="main" data-v-2551018c>
-                                                        <img src="./assets/img/main/token.jpg" alt="token" style={{ width: "495px", height: "405px" }} />
+                                                        <img src="./assets/img/main/token.jpg" alt="token" width="495" height="405" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -311,7 +309,7 @@ export default function Home() {
                                             <div className="column column-image" data-v-2551018c>
                                                 <div className="img-block" data-v-2551018c>
                                                     <div className="main" data-v-2551018c>
-                                                        <img src="./assets/img/main/governance.jpg" alt="governance" style={{ width: "495px", height: "405px" }} />
+                                                        <img src="./assets/img/main/governance.jpg" alt="governance" width="495" height="405" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -367,10 +365,8 @@ export default function Home() {
                                 <div className="inner-wrap" data-v-4be5dc8b>
                                     <div className="logo-block flex align-center justify-space-between" data-v-4be5dc8b>
                                         <a href="./" aria-current="page" className="logo router-link-exact-active router-link-active" data-v-4be5dc8b>
-                                            <img alt="Logo" src="./assets/kaiketsu.png" className="logo mode-default"
-                                                style={{ width: "150px", height: "150px" }} data-v-4be5dc8b />
-                                            <img alt="Logo hover" src="./assets/kaiketsu.png" className="logo mode-hover"
-                                                 style={{ width: "150px", height: "150px" }} data-v-4be5dc8b />
+                                            <img alt="Logo" src="./assets/kaiketsu.png" className="logo mode-default" width="150" height="150" data-v-4be5dc8b />
+                                            <img alt="Logo hover" src="./assets/kaiketsu.png" className="logo mode-hover" width="150" height="150" data-v-4be5dc8b />
                                         </a>
                                     </div>
                                     <div className="footer-menu-wrap flex justify-space-between" data-v-4be5dc8b>
