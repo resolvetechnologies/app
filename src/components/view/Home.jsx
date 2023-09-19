@@ -365,8 +365,8 @@ export default function Home() {
                                 <div className="inner-wrap" data-v-4be5dc8b>
                                     <div className="logo-block flex align-center justify-space-between" data-v-4be5dc8b>
                                         <a href="./" aria-current="page" className="logo router-link-exact-active router-link-active" data-v-4be5dc8b>
-                                            <img alt="Logo" src="./assets/kaiketsu.png" className="logo mode-default" width="150" height="150" data-v-4be5dc8b />
-                                            <img alt="Logo hover" src="./assets/kaiketsu.png" className="logo mode-hover" width="150" height="150" data-v-4be5dc8b />
+                                            <img alt="Logo" src="./assets/kaiketsu.png" className="logo mode-default" style={{ width: "100px", height: "100px" }} data-v-4be5dc8b />
+                                            <img alt="Logo hover" src="./assets/kaiketsu.png" className="logo mode-hover" style={{ width: "100px", height: "100px" }} data-v-4be5dc8b />
                                         </a>
                                     </div>
                                     <div className="footer-menu-wrap flex justify-space-between" data-v-4be5dc8b>
