@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Link from "next/link";
 import { FaFacebook, FaTelegram, FaTwitter, FaDiscord, FaLinkedinIn, FaLinkedin, FaYoutube } from 'react-icons/fa'
 
 export default function Home() {
@@ -57,7 +56,7 @@ export default function Home() {
                                                                 <ul className="products-list" data-v-53486bd9>
                                                                     <li data-v-53486bd9><a href="https://freelance-kaiketsu.vercel.app/" data-v-53486bd9>Freelancer Marketplace</a></li>
                                                                     <li data-v-53486bd9><a href="" data-v-53486bd9>Audio2Docs</a></li>
-                                                                    <li data-v-53486bd9><a href="" data-v-53486bd9>Staking</a></li>
+                                                                    <li data-v-53486bd9><a href="./pools" data-v-53486bd9>Staking</a></li>
                                                                     <li data-v-53486bd9><a href="" data-v-53486bd9>Lending/Borrowing</a></li>
                                                                     <li data-v-53486bd9><a href="" data-v-53486bd9>Mobile App</a></li>
                                                                 </ul>
@@ -160,7 +159,7 @@ export default function Home() {
                                                         regular rewards</li>
                                                     <li data-v-2551018c>Increase your earnings by committing to longer lock-ups</li>
                                                 </ul>
-                                                <a href="" target="_blank" rel="noopener nofollow" className="v-btn btn-purple" data-v-2551018c>
+                                                <a href="./pools" target="_blank" rel="noopener nofollow" className="v-btn btn-purple" data-v-2551018c>
                                                     Start staking
                                                 </a>
                                             </div>
@@ -218,7 +217,7 @@ export default function Home() {
                                                         <ul className="text">
                                                             <li>As a starting point, many projects allocate anywhere from 5% to 20% of their revenue to
                                                                 staking rewards.</li>
-                                                            <li>Users who stake KT tokens in the pool earn rewards in KT and other tokens.</li>
+                                                            <li>Users who stake REMEDY tokens in the pool earn rewards in REMEDY and other tokens.</li>
                                                         </ul>
                                                     </li>
                                                     <li data-v-2551018c>
@@ -264,18 +263,18 @@ export default function Home() {
                                                 <h2 className="title-about" data-v-2551018c>Token Utility</h2>
                                                 <ul className="text" data-v-2551018c>
                                                     <li data-v-2551018c>
-                                                        <strong>KT Token Utility:</strong>
+                                                        <strong>REMEDY Token Utility:</strong>
                                                         <ul className="text">
-                                                            <li>KT tokens are the lifeblood of our ecosystem, serving multiple essential functions:</li>
+                                                            <li>REMEDY tokens are the lifeblood of our ecosystem, serving multiple essential functions:</li>
                                                             <li>
                                                                 <ol>
-                                                                    <li>Product Subscriptions: Users can subscribe to our products and services using KT tokens,
+                                                                    <li>Product Subscriptions: Users can subscribe to our products and services using REMEDY tokens,
                                                                         offering convenience and benefits.</li>
-                                                                    <li>Staking: KT tokens are a requirement for participating in our staking pool, where users
+                                                                    <li>Staking: REMEDY tokens are a requirement for participating in our staking pool, where users
                                                                         secure our network and earn rewards.</li>
-                                                                    <li>Reduced Fees & Bonuses: Holders of KT tokens may enjoy reduced fees or receive bonuses
+                                                                    <li>Reduced Fees & Bonuses: Holders of REMEDY tokens may enjoy reduced fees or receive bonuses
                                                                         when utilizing our lending and borrowing platform.</li>
-                                                                    <li>Trading: KT tokens are tradable on external exchanges, providing liquidity and
+                                                                    <li>Trading: REMEDY tokens are tradable on external exchanges, providing liquidity and
                                                                         flexibility for our users.</li>
                                                                 </ol>
                                                             </li>
@@ -385,7 +384,7 @@ export default function Home() {
                                                     <a href="" target="_blank" rel="noopener" data-v-4be5dc8b>
                                                         Audio2Docs
                                                     </a>
-                                                    <a href="" target="_blank" rel="noopener" data-v-4be5dc8b>
+                                                    <a href="./pools" target="_blank" rel="noopener" data-v-4be5dc8b>
                                                         Staking
                                                     </a>
                                                     <a href="" target="_blank" rel="noopener" data-v-4be5dc8b>
@@ -432,9 +431,6 @@ export default function Home() {
                         <div className="no-ssr-placeholder"></div>
                     </div>
                 </div>
-
-                {/* <script src="./js/chunk-vendors.87b8adeb.js" defer></script>
-                <script src="./js/app.d01fa6fc.js" defer></script> */}
             </div>
         </>
     )
