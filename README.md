@@ -13,6 +13,7 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 - Problem: Freelance clients often face scams, where upfront payments lead to incomplete work and financial loss, eroding trust.
 - Solution: A decentralized marketplace uses smart contracts to ensure secure transactions and smart contract testing without revealing source code.
 - Result: Enhanced trust, secure transactions, and increased credibility for freelancers, fostering a productive and transparent freelance ecosystem.
+- [Read Full Information](FreelancerMarketplace.md)
 
 ### 2. Audio2Docs
 
