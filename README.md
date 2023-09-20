@@ -30,6 +30,12 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 - [Read Full Information](Staking.md)
 - Website: [Staking](https://kaiketsu.vercel.app/pools)
 
+### 4. **Lending/Borrowing**:
+- **Problem**: Traditional lending systems have barriers like slow approvals, high rates, and lack transparency, limiting financial inclusion.
+- **Solution**: Our decentralized crypto-based platform offers accessible loans with faster approvals, lower rates, and transparent smart contract terms.
+- **Result**: Benefits include increased capital access, cost savings, and transparent loan terms, fostering financial inclusivity and flexibility for individuals and businesses.
+- [Read Full Information](Lending.md)
+
 ## Smart Contract
  
 - Network: (testnet/mainnet)
