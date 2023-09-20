@@ -10,18 +10,24 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 
 ### 1. Freelancer Marketplace
 
-- Problem: Freelance clients often face scams, where upfront payments lead to incomplete work and financial loss, eroding trust.
-- Solution: A decentralized marketplace uses smart contracts to ensure secure transactions and smart contract testing without revealing source code.
-- Result: Enhanced trust, secure transactions, and increased credibility for freelancers, fostering a productive and transparent freelance ecosystem.
+- **Problem**: Freelance clients often face scams, where upfront payments lead to incomplete work and financial loss, eroding trust.
+- **Solution**: A decentralized marketplace uses smart contracts to ensure secure transactions and smart contract testing without revealing source code.
+- **Result**: Enhanced trust, secure transactions, and increased credibility for freelancers, fostering a productive and transparent freelance ecosystem.
 - [Read Full Information](FreelancerMarketplace.md)
 
 ### 2. Audio2Docs
 
-- Problem: Typing extensive documents is time-consuming and stressful, affecting students and professionals. The manual process hinders productivity and causes stress due to the demands of academic papers and projects.
-- Solution: Our solution, Audio2Docs, uses advanced Voice Recognition technology to effortlessly transform spoken words into precisely formatted text for various document types. This innovation eliminates manual typing, reducing stress and enhancing efficiency. Users can focus on content, while our technology handles transcription and formatting.
-- Result: Implementing Audio2Docs brings multiple benefits: enhanced workflow efficiency, improved accessibility for individuals with typing challenges, stress reduction, and versatile document formatting options. This empowers students and professionals to dedicate more time to critical thinking, creativity, and high-quality content creation, leading to greater academic and professional success.
+- **Problem**: Typing extensive documents is time-consuming and stressful, affecting students and professionals. The manual process hinders productivity and causes stress due to the demands of academic papers and projects.
+- **Solution**: Our solution, Audio2Docs, uses advanced Voice Recognition technology to effortlessly transform spoken words into precisely formatted text for various document types. This innovation eliminates manual typing, reducing stress and enhancing efficiency. Users can focus on content, while our technology handles transcription and formatting.
+- **Result**: Implementing Audio2Docs brings multiple benefits: enhanced workflow efficiency, improved accessibility for individuals with typing challenges, stress reduction, and versatile document formatting options. This empowers students and professionals to dedicate more time to critical thinking, creativity, and high-quality content creation, leading to greater academic and professional success.
 - [Read Full Information](Audio2Docs.md)
  
+### 3. Staking:
+- **Problem**: Cryptocurrency investors often struggle to generate passive income from their holdings, missing out on potential rewards.
+- **Solution**: Our Staking solution allows users to earn rewards by locking tokens in a smart contract for a set period, generating passive income.
+- **Result**: Benefits include earning rewards, growing asset portfolios, and increased earnings with longer commitments, enhancing financial strategies and portfolio growth.
+- [Read Full Information](Staking.md)
+
 ## Smart Contract
  
 - Network: (testnet/mainnet)
