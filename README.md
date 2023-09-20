@@ -55,7 +55,7 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
  
 - Demo:
   - HomePage: [Resolve Technologies](https://kaiketsu.vercel.app/)
-  - Staking: [pools](https://kaiketsu.vercel.app/pools)
+  - Staking: [Pools](https://kaiketsu.vercel.app/pools)
   - Freelancer Marketplace: [Freelancer Marketplace](https://freelance-kaiketsu.vercel.app/)
 - Video: <Link>
-- Tweet: <Link>
+- Tweet: [View tweet](https://twitter.com/acedotsol/status/1704580016518947189?t=w1UmrHbwgbY2ZQdfredghQ&s=19)
