@@ -266,8 +266,7 @@ export default function Home() {
                                                                 <ol>
                                                                     <li>Product Subscriptions: Users can subscribe to our products and services using REMEDY tokens,
                                                                         offering convenience and benefits.</li>
-                                                                    <li>Staking: REMEDY tokens are a requirement for participating in our staking pool, where users
-                                                                        secure our network and earn rewards.</li>
+                                                                    <li>Staking: REMEDY tokens are a requirement for participating in our staking pool.</li>
                                                                     <li>Reduced Fees & Bonuses: Holders of REMEDY tokens may enjoy reduced fees or receive bonuses
                                                                         when utilizing our lending and borrowing platform.</li>
                                                                     <li>Trading: REMEDY tokens are tradable on external exchanges, providing liquidity and
