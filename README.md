@@ -14,6 +14,7 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 - **Solution**: A decentralized marketplace uses smart contracts to ensure secure transactions and smart contract testing without revealing source code.
 - **Result**: Enhanced trust, secure transactions, and increased credibility for freelancers, fostering a productive and transparent freelance ecosystem.
 - [Read Full Information](FreelancerMarketplace.md)
+- Website: [Freelancer Marketplace](https://freelance-kaiketsu.vercel.app/)
 
 ### 2. Audio2Docs
 
@@ -27,6 +28,7 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 - **Solution**: Our Staking solution allows users to earn rewards by locking tokens in a smart contract for a set period, generating passive income.
 - **Result**: Benefits include earning rewards, growing asset portfolios, and increased earnings with longer commitments, enhancing financial strategies and portfolio growth.
 - [Read Full Information](Staking.md)
+- Website: [Staking](https://kaiketsu.vercel.app/pools)
 
 ## Smart Contract
  
