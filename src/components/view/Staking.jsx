@@ -1,9 +1,6 @@
 import Head from "next/head";
-import Link from "next/link";
 import { useState } from "react";
 import { FaExternalLinkAlt, FaInfoCircle, FaArrowUp } from 'react-icons/fa'
-// import Script from "next/script";
-// import { NextScript } from "next/document";
 
 export default function Staking() {
     const [showAccount, setShowAccount] = useState(false);
@@ -15,12 +12,12 @@ export default function Staking() {
             <Head>
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
-                <title>Pools | Kaiketsu.tech</title>
+                <title>Pools | Resolve Technologies</title>
                 <meta name="description" content="Stake your REMEDY and earn ongoing rewards" />
-                <meta property="og:title" content="Kaiketsu.tech" />
+                <meta property="og:title" content="Resolve Technologies" />
                 <meta property="og:description" content="Stake your REMEDY and earn ongoing rewards" />
                 <meta property="og:type" content="website" />
-                <link rel="icon" type="image/png" href="./assets/kaiketsu.png" width="32" height="32" />
+                <link rel="icon" type="image/png" href="./assets/resolve.png" width="32" height="32" />
                 <meta name="theme-color" content="#ffffff" />
                 <link href="./js/@walletconnect/universal-provider.c2d3314e.js" rel="prefetch" />
                 <link href="./js/timewarp-sc-artifacts.4d22dcfa.js" rel="prefetch" />
@@ -40,7 +37,7 @@ export default function Staking() {
                         <nav data-v-dd08c964="" data-v-6a3b02da="" className="header">
                             <div data-v-dd08c964="" className="top-panel">
                                 <a data-v-dd08c964="" href="./pools" className="logo">
-                                    <span data-v-dd08c964="">Kaiketsu.tech</span>
+                                    <span data-v-dd08c964="">Resolve Technologies</span>
                                 </a>
                                 <div data-v-dd08c964="" className="side-right">
                                     <div data-v-dd08c964="" className="header-nav menu">
@@ -274,7 +271,7 @@ export default function Staking() {
                         <div data-v-1b22e25c="" data-v-6a3b02da="" className="footer">
                             <div data-v-1b22e25c="" className="copyright">
                                 <span data-v-1b22e25c="">© </span>
-                                2023 Kaiketsu.tech — All Rights Reserved
+                                2023 Resolve Technologies — All Rights Reserved
                             </div>
                             <div data-v-1b22e25c="" className="links">
                                 <a data-v-1b22e25c="" href="./" className="">Home</a>

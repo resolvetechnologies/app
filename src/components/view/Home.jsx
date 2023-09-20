@@ -8,11 +8,11 @@ export default function Home() {
                 <meta charSet="utf-8" />
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <link rel="icon" href="./assets/kaiketsu.png" width="200" height="200" />
+                <link rel="icon" href="./assets/resolve.png" width="200" height="200" />
                 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700" />
                 <meta data-vue-meta="ssr" data-vmid="og:title" property="og:title" content="" />
                 <meta data-vue-meta="ssr" data-vmid="og:type" property="og:type" content="website" />
-                <title>Limitless Solutions | Kaiketsu.tech</title>
+                <title>Limitless Solutions | Resolve Technologies</title>
                 <link rel="stylesheet" href="./css/chunk-vendors.37e69464.css" />
                 <link rel="stylesheet" type="text/css" href="./css/style.css" />
                 <link rel="preload" href="./css/chunk-vendors.37e69464.css" as="style" />
@@ -30,10 +30,8 @@ export default function Home() {
                                         <div className="inner-wrap" data-v-53486bd9>
                                             <div className="nav-container" data-v-53486bd9>
                                                 <div className="item-brand" data-v-53486bd9>
-                                                    <a href="./" aria-current="page" className="router-link-exact-active router-link-active"
-                                                        data-v-53486bd9>
-                                                        <img alt="logo" src="./assets/kaiketsu.png" className="logo mode-default" data-v-53486bd9 />
-                                                        <img alt="logo hover" src="./assets/kaiketsu.png" className="logo mode-hover" data-v-53486bd9 />
+                                                    <a href="./" aria-current="page" className="router-link-exact-active router-link-active" style={{ textDecoration: "none" }} data-v-53486bd9>
+                                                        <span>Resolve Technologies</span>
                                                     </a>
                                                 </div>
                                                 <nav className="item-menu" data-v-53486bd9>
@@ -179,10 +177,10 @@ export default function Home() {
                                                     <h2 className="title-about" data-v-83b7237a>About Us</h2>
                                                 </div>
                                                 <p className="text" data-v-83b7237a>
-                                                    Welcome to Kaiketsu Technologies!<br />
+                                                    Welcome to Resolve Technologies!<br />
                                                 </p>
                                                 <p className="text" style={{ textAlign: "justify" }} data-v-83b7237a>
-                                                    At Kaiketsu Technologies, we&apos;re on a mission to empower businesses,
+                                                    At Resolve Technologies, we&apos;re on a mission to empower businesses,
                                                     ignite innovation, and tackle real-world challenges head-on through
                                                     the fusion of blockchain technology and artificial intelligence.<br />
 
@@ -194,10 +192,10 @@ export default function Home() {
 
                                                     But we&apos;re not just about software. We craft Mobile Apps that redefine user experiences
                                                     and even have an app designed to streamline your seminar, research projects, and journals.
-                                                    At Kaiketsu, we leverage technology to tailor-make solutions that fit your unique needs.<br />
+                                                    At Resolve, we leverage technology to tailor-make solutions that fit your unique needs.<br />
 
                                                     Join us on this exciting journey as we harness the power of technology to shape a better future.
-                                                    Discover how Kaiketsu Technologies can transform your business and ideas into reality.
+                                                    Discover how Resolve Technologies can transform your business and ideas into reality.
                                                     Let&apos;s innovate together!
                                                 </p>
                                                 <p></p>
@@ -320,7 +318,7 @@ export default function Home() {
                                             <div className="info-block" data-v-d9a80232>
                                                 <h2 className="title-main" data-v-d9a80232>Join our community</h2>
                                                 <p className="text" data-v-d9a80232>
-                                                    At Kaiketsu Technologies, we&apos;re more than just a company;
+                                                    At Resolve Technologies, we&apos;re more than just a company;
                                                     we&apos;re a vibrant community of tech enthusiasts, innovators, and problem-solvers.
                                                     Join us on our journey to harness the power of blockchain and AI
                                                     to transform industries, create solutions, and drive real-world change.
@@ -364,9 +362,8 @@ export default function Home() {
                             <footer className="footer-wrap" data-v-4be5dc8b data-v-171e5d00>
                                 <div className="inner-wrap" data-v-4be5dc8b>
                                     <div className="logo-block flex align-center justify-space-between" data-v-4be5dc8b>
-                                        <a href="./" aria-current="page" className="logo router-link-exact-active router-link-active" data-v-4be5dc8b>
-                                            <img alt="Logo" src="./assets/kaiketsu.png" className="logo mode-default" style={{ width: "100px", height: "100px" }} data-v-4be5dc8b />
-                                            <img alt="Logo hover" src="./assets/kaiketsu.png" className="logo mode-hover" style={{ width: "100px", height: "100px" }} data-v-4be5dc8b />
+                                        <a href="./" aria-current="page" className="logo router-link-exact-active router-link-active" style={{ textDecoration: "none" }} data-v-4be5dc8b>
+                                            <span>Resolve Technologies</span>
                                         </a>
                                     </div>
                                     <div className="footer-menu-wrap flex justify-space-between" data-v-4be5dc8b>
@@ -410,17 +407,17 @@ export default function Home() {
                                             <div className="menu-block" data-v-4be5dc8b>
                                                 <h2 className="title-menu" data-v-4be5dc8b>Contact us</h2>
                                                 <address className="contact-block" data-v-4be5dc8b>
-                                                    <div className="text" data-v-4be5dc8b>General inquiries:</div><a href="mailto:info@Kaiketsu.tech"
-                                                        className="mail" data-v-4be5dc8b>info@Kaiketsu.tech</a>
+                                                    <div className="text" data-v-4be5dc8b>General inquiries:</div><a href="mailto:info@resolvetechnologies.org"
+                                                        className="mail" data-v-4be5dc8b>info@resolvetechnologies.org</a>
                                                 </address>
                                                 <address className="contact-block" data-v-4be5dc8b>
-                                                    <div className="text" data-v-4be5dc8b>Technical support:</div><a href="mailto:help@Kaiketsu.tech"
-                                                        className="mail" data-v-4be5dc8b>help@Kaiketsu.tech</a>
+                                                    <div className="text" data-v-4be5dc8b>Technical support:</div><a href="mailto:help@resolvetechnologies.org"
+                                                        className="mail" data-v-4be5dc8b>help@resolvetechnologies.org</a>
                                                 </address>
                                             </div>
                                         </div>
                                     </div>
-                                    <small className="copyright" data-v-4be5dc8b>© 2023 Kaiketsu.tech. All Rights Reserved</small>
+                                    <small className="copyright" data-v-4be5dc8b>© 2023 Resolve Technologies. All Rights Reserved</small>
                                 </div>
                             </footer>
                         </div>
