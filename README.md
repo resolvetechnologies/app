@@ -48,8 +48,11 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 - <Transaction Hash 2>
  
 ## Originality
- 
-- This is an original work by our team. We build on top of the following tooling: ...
+
+This is an original work by our team. We build on top of the following tooling:
+
+- **Next.js**: Next.js, a powerful React framework, served as the foundation for our web-based application, providing us with a robust and efficient platform for creating dynamic user interfaces and seamless client-side rendering.
+- **Solidity**: In the realm of blockchain and decentralized applications, we harnessed the capabilities of Solidity, a specialized programming language. With Solidity, we developed smart contracts that power various aspects of our project, ensuring trust, transparency, and secure interactions on blockchain networks.
  
 ## Bonus
  
