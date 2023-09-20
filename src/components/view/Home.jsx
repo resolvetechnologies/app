@@ -212,7 +212,7 @@ export default function Home() {
                                                     <li data-v-2551018c>
                                                         <strong>Staking Rewards (X% of Revenue):</strong>
                                                         <ul className="text">
-                                                            <li>As a starting point, many projects allocate anywhere from 5% to 20% of their revenue to
+                                                            <li>We will allocate from 5% to 20% of the revenue generated from our various products to
                                                                 staking rewards.</li>
                                                             <li>Users who stake REMEDY tokens in the pool earn rewards in REMEDY and other tokens.</li>
                                                         </ul>
