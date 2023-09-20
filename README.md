@@ -1,8 +1,8 @@
 # Resolve Technologies
  
 ## Description
- 
-- Briefly describe your project and its use case.
+
+Resolve Technologies is a forward-thinking organization dedicated to conducting in-depth research aimed at identifying pressing issues and devising innovative technological solutions. Our expertise lies in harnessing cutting-edge technologies such as Blockchain and Artificial Intelligence to address real-world challenges. We are committed to driving positive change by leveraging the power of technology to provide effective solutions for complex problems.
  
 ## Smart Contract
  
