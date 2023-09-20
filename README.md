@@ -3,6 +3,8 @@
 ## Description
 
 Resolve Technologies is a forward-thinking organization dedicated to conducting in-depth research aimed at identifying pressing issues and devising innovative technological solutions. Our expertise lies in harnessing cutting-edge technologies such as Blockchain and Artificial Intelligence to address real-world challenges. We are committed to driving positive change by leveraging the power of technology to provide effective solutions for complex problems.
+
+We specialise in utilizing emerging technologies like Blockchain and Artificial Intelligence to address real-world challenges. Our research-driven approach identifies pressing issues and provides innovative solutions, fostering positive change through technology.
  
 ## Smart Contract
  
