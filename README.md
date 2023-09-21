@@ -49,9 +49,12 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 - gnosisscan.io: [Link](https://gnosis-chiado.blockscout.com/address/0x52264BfAE649689931Fe5adFAf43CbB96362740c)
  
 ## Transactions
- 
-- <Transaction Hash 1>
-- <Transaction Hash 2>
+
+### 1. Admin funds the Staking Pool with rewards (4,000 Remedy Tokens)
+- Transaction Hash: [0x95d1148569b0555cdf8fb1ee241b098b3baab612eda3db9df20994b181e2b4be](https://gnosis-chiado.blockscout.com/tx/0x95d1148569b0555cdf8fb1ee241b098b3baab612eda3db9df20994b181e2b4be)
+
+### 2. User Stakes/Locks 200 Remedy tokens in the Staking Pool
+- Transaction Hash: [0x4e97b3fa64fb47c6f9fa8828552d968b15e263e5b778d9ee7901178221472151](https://gnosis-chiado.blockscout.com/tx/0x4e97b3fa64fb47c6f9fa8828552d968b15e263e5b778d9ee7901178221472151)
  
 ## Originality
 
