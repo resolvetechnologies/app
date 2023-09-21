@@ -37,10 +37,16 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 - [Read Full Information](Lending.md)
 
 ## Smart Contract
- 
-- Network: (testnet/mainnet)
-- Address: <Contract Address>
-- gnosisscan.io: <Link>
+
+### 1. Remedy Token
+- Network: [Gnosis Chiado Testnet](https://gnosis-chiado.blockscout.com/)
+- Address: [0x035892f4eCc243D473d27a163BACbD3Abd067EE8](https://gnosis-chiado.blockscout.com/token/0x035892f4eCc243D473d27a163BACbD3Abd067EE8)
+- gnosisscan.io: [Link](https://gnosis-chiado.blockscout.com/token/0x035892f4eCc243D473d27a163BACbD3Abd067EE8)
+
+### 2. Staking Pool
+- Network: [Gnosis Chiado Testnet](https://gnosis-chiado.blockscout.com/)
+- Address: [0x52264BfAE649689931Fe5adFAf43CbB96362740c](https://gnosis-chiado.blockscout.com/address/0x52264BfAE649689931Fe5adFAf43CbB96362740c)
+- gnosisscan.io: [Link](https://gnosis-chiado.blockscout.com/address/0x52264BfAE649689931Fe5adFAf43CbB96362740c)
  
 ## Transactions
  
