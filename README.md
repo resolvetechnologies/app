@@ -8,7 +8,7 @@ We specialise in utilizing emerging technologies like Blockchain and Artificial 
 
 ## Products
 
-To have access to any of or products you need to be a holder of REMEDY token, or subscribe to the product by paying with REMEDY token or with Stablecoin.
+To have access to any of our products you need to be a holder of REMEDY token, or subscribe to the product by paying with REMEDY token or with Stablecoin.
 
 ### 1. Freelancer Marketplace
 
