@@ -30,7 +30,7 @@ To have access to any of our products you need to be a holder of REMEDY token, o
 - **Solution**: Our Staking solution allows users to earn rewards by locking tokens in a smart contract for a set period, generating passive income.
 - **Result**: Benefits include earning rewards, growing asset portfolios, and increased earnings with longer commitments, enhancing financial strategies and portfolio growth.
 - [Read Full Information](Staking.md)
-- Website: [Staking](https://kaiketsu.vercel.app/pools)
+- Website: [Staking](https://www.resolvetechnologies.org/pools)
 
 ### 4. **Lending/Borrowing**:
 - **Problem**: Traditional lending systems have barriers like slow approvals, high rates, and lack transparency, limiting financial inclusion.
@@ -68,8 +68,8 @@ This is an original work by our team. We build on top of the following tooling:
 ## Bonus
  
 - Demo:
-  - HomePage: [Resolve Technologies](https://kaiketsu.vercel.app/)
-  - Staking: [Pools](https://kaiketsu.vercel.app/pools)
+  - HomePage: [Resolve Technologies](https://www.resolvetechnologies.org/)
+  - Staking: [Pools](https://www.resolvetechnologies.org/pools)
   - Freelancer Marketplace: [Freelancer Marketplace](https://freelance-kaiketsu.vercel.app/)
 - Video: <Link>
 - Tweet: [View tweet](https://twitter.com/acedotsol/status/1704580016518947189?t=w1UmrHbwgbY2ZQdfredghQ&s=19)
