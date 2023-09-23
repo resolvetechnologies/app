@@ -16,7 +16,7 @@ To have access to any of our products you need to be a holder of REMEDY token, o
 - **Solution**: A decentralized marketplace uses smart contracts to ensure secure transactions and smart contract testing without revealing source code.
 - **Result**: Enhanced trust, secure transactions, and increased credibility for freelancers, fostering a productive and transparent freelance ecosystem.
 - [Read Full Information](FreelancerMarketplace.md)
-- Website: [Freelancer Marketplace](https://freelance-kaiketsu.vercel.app/)
+- Website: [Freelancer Marketplace](https://freelance.resolvetechnologies.org/)
 
 ### 2. Audio2Docs
 
@@ -70,6 +70,6 @@ This is an original work by our team. We build on top of the following tooling:
 - Demo:
   - HomePage: [Resolve Technologies](https://www.resolvetechnologies.org/)
   - Staking: [Pools](https://www.resolvetechnologies.org/pools)
-  - Freelancer Marketplace: [Freelancer Marketplace](https://freelance-kaiketsu.vercel.app/)
+  - Freelancer Marketplace: [Freelancer Marketplace](https://freelance.resolvetechnologies.org/)
 - Video: <Link>
 - Tweet: [View tweet](https://twitter.com/acedotsol/status/1704580016518947189?t=w1UmrHbwgbY2ZQdfredghQ&s=19)
